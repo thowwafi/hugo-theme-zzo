@@ -40,14 +40,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "Thowwafi"
-email = "thowwafi@gmail.com"
-whoami = "A Story Teller Wannabe"
+myname = "zzossig"
+email = "zzossig@gmail.com"
+whoami = "Web Developer"
 bioImageUrl = ""
 useGravatar = false
-location = "JKT, ID"
-organization = ""
-link = ""
+location = "Seoul, Korea"
+organization = "Hugo"
+link = "https://zzossig.io/ko"
 
 # sidebar
 enableBio = true
@@ -72,7 +72,7 @@ enableSidebarPostsByOrder = false
 showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = false
+enableLangChange = true
 enableThemeChange = true
 
 # service
@@ -141,13 +141,13 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:thowwafi@gmail.com"
+  email = "mailto:your@email.com"
   phone = ""
-  facebook = ""
-  twitter = "https://twitter.com/alpiansyeh"
-  github = "https://github.com/thowwafi"
+  facebook = "http://example.org/"
+  twitter = "http://example.org/"
+  github = "https://github.com/zzossig/hugo-theme-zzo"
   stack-overflow = ""
-  instagram = "https://instagram.com/thowwafi"
+  instagram = ""
   google-plus = ""
   youtube = ""
   medium = ""

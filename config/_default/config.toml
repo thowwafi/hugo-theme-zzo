@@ -1,5 +1,5 @@
 baseURL = "http://example.org"
-title = "Thowwafi's Personal Blog"
+title = "Hugo Zzo Theme"
 theme = "zzo"
 
 defaultContentLanguage = "en"
