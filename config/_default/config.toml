@@ -1,9 +1,9 @@
 baseURL = ""
-title = "Hugo Zzo Theme"
+title = "Thowwafi Alfiansyah"
 theme = "zzo"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70
