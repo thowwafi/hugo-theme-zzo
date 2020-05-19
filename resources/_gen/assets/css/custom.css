@@ -1,0 +1,12 @@
+#body {
+    background-color: red !important;
+  }
+
+.bio__photo-wrapper {
+    width: 50% !important;
+}
+
+.bio__photo {
+    border-radius: 50% !important;
+}
+

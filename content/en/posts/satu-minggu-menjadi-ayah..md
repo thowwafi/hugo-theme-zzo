@@ -12,7 +12,7 @@ tags:
 - life
 categories:
 - life
-image: images/feature1/markdown.png
+image: images/feature2/gallery.png
 ---
 
 Tepat pada tanggal 17 April 2020(24 Sya'ban 1441 H), pada minggu ke-38 kandungan, anak pertama kami lahir. Alhamdulillah.

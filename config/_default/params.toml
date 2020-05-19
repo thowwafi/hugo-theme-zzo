@@ -1,7 +1,7 @@
-logoText = ""
+logoText = "A"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
-custom_css = []
+custom_css = ["scss/custom.scss", "css/custom.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
@@ -64,7 +64,7 @@ tocFolding = true
 tocPosition = "inner" # inner, outer
 enableTocSwitch = true
 itemsPerCategory = 5
-sidebarPosition = "left"
+sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
